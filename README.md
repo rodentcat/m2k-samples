@@ -1,5 +1,5 @@
 ![screenie](screenie.png)
-(Screenshot will eventually be inaccurate in its sample count, but I don't need to worry about that yet!)
+(I'll just keep updating the screenshot as I add more samples...)
 
 Requires WADtool: https://github.com/juju2143/wadtool
 
