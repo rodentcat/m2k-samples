@@ -93,6 +93,54 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CANYOU~2 "N\D\N\A\can you feel it.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CANYOU~4 "N\F\N\A\can you feel it.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CANYOU~3 "N\B\N\A\can you get.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CANYOU~3 "N\D\N\A\can you get.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CANYOU~2 "N\F\N\A\can you get.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CANYOU~6 "N\B\N\A\can you kick.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CANYOU~6 "N\D\N\A\can you kick.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CANYOU~5 "N\F\N\A\can you kick.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CANYOU~4 "N\B\N\A\can you move it.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CANYOU~4 "N\D\N\A\can you move it.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CANYOU~6 "N\F\N\A\can you move it.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CANYOU~1 "N\B\N\A\can you.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CANYOU~1 "N\D\N\A\can you.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CANYOU~1 "N\F\N\A\can you.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CHAMP1A "N\B\N\A\champ1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CHAMP1A "N\D\N\A\champ1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CHAMP1A "N\F\N\A\champ1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CHECK1A "N\B\N\A\check1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CHECK1A "N\D\N\A\check1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CHECK1A "N\F\N\A\check1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CHECK1B "N\B\N\A\check1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CHECK1B "N\D\N\A\check1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CHECK1B "N\F\N\A\check1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CLAP1A "N\B\N\A\clap1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CLAP1A "N\D\N\A\clap1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CLAP1A "N\F\N\A\clap1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CONTRO~1 "N\B\N\A\control1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CONTRO~1 "N\D\N\A\control1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CONTRO~1 "N\F\N\A\control1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CONTRO~2 "N\B\N\A\control1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CONTRO~2 "N\D\N\A\control1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CONTRO~2 "N\F\N\A\control1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CRAZY1A "N\B\N\A\crazy1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CRAZY1A "N\D\N\A\crazy1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CRAZY1A "N\F\N\A\crazy1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/CRAZY1B "N\B\N\A\crazy1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/CRAZY1B "N\D\N\A\crazy1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/CRAZY1B "N\F\N\A\crazy1b.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELPUS/ENGLISH/101/000/000 "HELPUS\101\000"
 
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELP/ENGLISH/101/000 "HELPUS\101\000"
