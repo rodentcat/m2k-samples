@@ -1,0 +1,189 @@
+5003000 NAMELIST     6080
+ 5004800 2AND21~1    14720 2 and 2 1a.vag
+ 5008800 2AND21~2    11536 2 and 2 1b.vag
+ 500D000    ACT1A    15264 act1a.vag
+ 5012000    ACT1B     9296 act1b.vag
+ 5017000    ALL1A    10096 all1a.vag
+ 501C800  ANDON~1    10688 and on.vag
+ 5022800 ANDYOU~1    17808 and you1a.vag
+ 5028000 ARYEH1~3    15872 ar yeh1a.vag
+ 502C000 ARYEH1~1      752 ar yeh1b.vag
+ 5032800 ARYEH1~2      752 ar yeh1c.vag
+ 5036800   BACK1A     7104 back1a.vag
+ 503C000 BADDES~1     8688 baddest1a.vag
+ 5040000   BASS1A     6704 bass1a.vag
+ 5043000   BASS1B     6240 bass1b.vag
+ 5046800 BEWHAT~2    15360 be what1a.vag
+ 504B000 BEWHAT~1    14864 be what1b.vag
+ 504F800   BEAT1A     7632 beat1a.vag
+ 5051800   BOMB1A     6192 bomb1a.vag
+ 5054800  BREAK1A     4368 break1a.vag
+ 505C000  BREAK1B     7616 break1b.vag
+ 5063800 BROTHE~1     6432 brothers1a.vag
+ 5068000 CANYOU~5    15440 can you dig it.vag
+ 506C000 CANYOU~2    11696 can you feel it.vag
+ 5070800 CANYOU~3    19856 can you get.vag
+ 5075800 CANYOU~6    16096 can you kick.vag
+ 5079800 CANYOU~4    20800 can you moveit.vag
+ 507F000 CANYOU~1     8624 can you.vag
+ 5081800  CHAMP1A    12112 champ1a.vag
+ 5084800  CHECK1A    11008 check1a.vag
+ 5087800  CHECK1B    11024 check1b.vag
+ 508A800   CLAP1A    14112 clap1a.vag
+ 508E000 CONTRO~1    17232 control1a.vag
+ 5092800 CONTRO~2    23440 control1b.vag
+ 5098800  CRAZY1A    20352 crazy1a.vag
+ 509D800  CRAZY1B    19616 crazy1b.vag
+ 50A2800    DAT1A    11408 dat1a.vag
+ 50A5800   DAWN1A    23824 dawn1a.vag
+ 50AB800 DIGIT1~1     9216 dig it1a.vag
+ 50AE000 DOWHAT~1    17168 do what1a.vag
+ 50B2800 DOWHAT~2    19408 do what1b.vag
+ 50B7800 DONTST~1    18096 dont stop hip hop.vag
+ 50BC000 DROPBE~1    17920 drop beat.vag
+ 50C0800   DROP1A    17488 drop1a.vag
+ 50C5000   DROP1C    12496 drop1b.vag
+ 50C8800 FASTER1A    14512 faster1a.vag
+ 50CC800 FEELIT~1    11072 feel it1a.vag
+ 50CF800 FEELIT~2    11040 feel it1b.vag
+ 50D2800   FEEL1A    15600 feel1a.vag
+ 50D6800   FEEL1B    17056 feel1b.vag
+ 50DB000   FULL1A    16000 full1a.vag
+ 50DF000   FULL1B    15616 full1b.vag
+ 50E3000 FUNKDR~1    24288 funk drum.vag
+ 50E9000 GETBY1~1    16992 get by1a.vag
+ 50ED800 GETDOW~1    22512 get down1a.vag
+ 50F3000 GETONT~1    11584 get on the beat.vag
+ 50F6000 GHETTO1A    15808 ghetto1a.vag
+ 50FA000 GHETTO1B    15008 ghetto1b.vag
+ 50FE000  GIIME1B    13904 gimme1b.vag
+ 5101800  GIMME1A    14064 gimme1a.vag
+ 5105000 GIVEME~1    14912 give me1a.vag
+ 5109000 GIVEME~2    18160 give meee1a.vag
+ 510D800 GIVEME~3    19952 give meee1b.vag
+ 5112800   GOES1A    21664 goes1a.vag
+ 5118000   GOES1B    27312 goes1b.vag
+ 511F000   GOES1C    25520 goes1c.vag
+ 5125800   GOES1D    21968 goes1d.vag
+ 512B000 GOTIT1~1     9024 got it1a.vag
+ 512D800 GOTIT1~2    11104 got it1b.vag
+ 5130800 GOTTHE~1    16672 got the bomb1a.vag
+ 5135000  GOTTA1A    17472 gotta1a.vag
+ 5139800  GOTTA1B    17984 gotta1b.vag
+ 513E000 GROOVE1A    11872 groove1a.vag
+ 5141000 HEREWE~1    25360 here we go.vag
+ 5147800   HERE1A     9200 here1a.vag
+ 514A000   HERE1B    10064 here1b.vag
+ 514C800 HEYBOY~1    11344 hey boy1a.vag
+ 514F800 HEYGIR~1    11456 hey girl1a.vag
+ 5152800 HIPHOP~1     7456 hip hop.vag
+ 5154800  HOUSE1A    11424 house1a.vag
+ 5157800  HOUSE1B    18816 house1b.vag
+ 515C800 IAMTHE~1    22672 i am the1a.vag
+ 5162800 IAMTHE~2    18688 i am the1b.vag
+ 5167800 IGOT1A~1     9008 i got 1a.vag
+ 516A000 IGOT1B~1    10992 i got 1b.vag
+ 516D000 IGOTTH~2    14672 i got the beat1a.vag
+ 5171000 IGOTTH~3    17072 i got the groove.vag
+ 5175800 IGOTTH~4    17168 i got the vibe1a.vag
+ 517A000 IGOTTH~1    17136 i got the1a.vag
+ 517E800 IGOTWI~1    23920 i got wickedness1a.vag
+ 5184800 IFYOUW~1    10480 if you wanna1b.vag
+ 5187800 IFYOU1~1     9904 if you1a.vag
+ 518A000 ISTHIS~1    20256 is this1a.vag
+ 518F000   JOIN1A    12496 join1a.vag
+ 5192800 KICKIT~1     9312 kick it1a.vag
+ 5195000 KICKIT~2     8688 kick it1b.vag
+ 5197800 LETME1~1    16640 let me1a.vag
+ 519C000 LETME1~2    14352 let me1b.vag
+ 51A0000   LETS1A    11392 let's1a.vag
+ 51A3000   LETS1B    10976 let's1b.vag
+ 51A6000  LEVEL1A    18432 level1a.vag
+ 51AA800 LIKETH~2    16272 like this1a.vag
+ 51AE800 LIKETH~1    19856 like this1b.vag
+ 51B3800  LYRICAL    18160 lyrical.vag
+ 51B8000 MAKING1A    13888 making1a.vag
+ 51BB800 MAKING1B    13328 making1b.vag
+ 51BF000    MIC1A    24112 mic1a.vag
+ 51C5000    MIC1B    24944 mic1b.vag
+ 51CB800 MIXMAS~1    13744 mixmaster1a.vag
+ 51CF000   MOVEIT    11728 moveit.vag
+ 51D2000   NATURE    13520 nature1a
+ 51D5800 NATURE1B    20112 nature1b.vag
+ 51DA800    NEG1A    26000 neg1a.vag
+ 51E1000    NEG1B    23168 neg1b.vag
+ 51E7000 NOLIST~1    12512 no listen.vag
+ 51EA800 NOWYOU~1    21792 now you just1.vag
+ 51F0000 ONANDO~1    10720 on and on1a
+ 51F3000 ONANDO~2    14544 on and on1b
+ 51F7000 ONANDO~3    24432 on and on1c
+ 51FD000 ONBREA~1    25088 on break1a.vag
+ 5203800  PLACE1A    13232 place1a.vag
+ 5207000 POSITIVE    16256 positive.vag
+ 520B000   PUMP1A     8144 pump1a.vag
+ 520D000   PUMP1B     8752 pump1b.vag
+ 520F800   PUMP1C    11200 pump1c.vag
+ 5212800  RHYME1A    20272 rhyme1a.vag
+ 5217800  RHYME1B    24704 rhyme1b.vag
+ 521E000 RIGHTA~1    19088 right about1a.vag
+ 5223000  SHOUT1A    19296 shout1a.vag
+ 5228000  SHOUT1B    18352 shout1b.vag
+ 522C800     SHOW    26768 show.vag
+ 5233800 SOMEBO~1    17488 somebody1a.vag
+ 5238000 SOMEBO~2    16624 somebody1b.vag
+ 523C800   SOUL1A    23952 soul1a.vag
+ 5242800   SOUL1B    16576 soul1b.vag
+ 5247000  SOUND1A    14656 sound1a.vag
+ 524B000     STEP    11136 step.vag
+ 524E000   STOP1A    22560 stop1a.vag
+ 5254000   STOP1B    19280 stop1b.vag
+ 5259000 STREET1A    21936 street1a.vag
+ 525E800 STREET1B    19680 street1b.vag
+ 5263800 SUPERF~1    26016 superfly1a.vag
+ 526A000 SUPERF~2    26000 superfly1b.vag
+ 5270800 THERHY~1     8272 the rhythm1a.vag
+ 5273000 THERHY~2    11024 the rhythm1b.vag
+ 5276000    THINK    19120 think.vag
+ 527B000     THIS    18144 this.vag
+ 527F800  THROW1A    20256 throw1a.vag
+ 5284800  THROW1B    22256 throw1b.vag
+ 528A000   TIME1A    16816 time1a.vag
+ 528E800   TIME1B    16192 time1b.vag
+ 5292800 TWOTUR~1    27760 two turnables.vag
+ 5299800    TWO1A    20208 two1a.vag
+ 529E800    TWO1B    15280 two1b.vag
+ 52A2800 VIBE1A~1     8496 vibe 1a.vag
+ 52A5000   VIBE1A    12528 vibe1a.vag
+ 52A8800   VIBE1B    12928 vibe1b.vag
+ 52AC000 WEGO1A~1    11040 we go1a.vag
+ 52AF000 WEGO1B~1    12864 we go1b.vag
+ 52B2800 WEGOTT~2     5296 we got the.vag
+ 52B4000  WEGOT~1     6736 we got.vag
+ 52B6000     WEST    21168 west.vag
+ 52BB800 WHATIU~1    25008 what i use.vag
+ 52C2000 WHATTI~1    19312 what time.vag
+ 52C7000   WHAT1A    13872 what1a.vag
+ 52CA800   WHAT1B    15680 what1b.vag
+ 52CE800  WHERE1A    19936 where1a.vag
+ 52D3800  WHERE1B    23680 where1b.vag
+ 52D9800  WHOAH1A    10192 whoah1a.vag
+ 52DC000  WHOAH1B    10112 whoah1b.vag
+ 52DE800 WICKED1A    16608 wicked1a.vag
+ 52E3000 WICKED~1    16096 wickedest1a.vag
+ 52E7000 WICKED~2    15920 wickedest1b.vag
+ 52EB000    YEH1A    10800 yeh1a.vag
+ 52EE000    YEH1B     9968 yeh1b.vag
+ 52F0800    YEH1C    11184 yeh1c.vag
+ 52F3800    YEH1D     9744 yeh1d.vag
+ 52F6000 YESYOU~1    13024 yes you can1a.vag
+ 52F9800 YESYOU~2    15120 yes you can1b.vag
+ 52FD800 YOBOY1~1    11232 yo boy1a.vag
+ 5300800 YOGIRL~1    12128 yo girl1a.vag
+ 5303800       YO    14176 yo.vag
+ 5307000 YOUGOT~4    12720 you got the beat.vag
+ 530A800 YOUGOT~3    14896 you got the beat1b.vag
+ 530E800 YOUGOT~1     9280 you got1a.vag
+ 5311000 YOUGOT~2    10720 you got1b.vag
+ 5314000 YOUKNO~1    23152 you know.vag
+ 531A000    YOU1A     9488 you1a.vag
+ 531C800    YOU1B     9440 you1b.vag
