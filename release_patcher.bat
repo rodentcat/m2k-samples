@@ -305,6 +305,42 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/HEYBOY~1 "N\D\N\A\hey boy1a.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/HEYBOY~1 "N\F\N\A\hey boy1a.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/HEYGIR~1 "N\B\N\A\hey girl1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/HEYGIR~1 "N\D\N\A\hey girl1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/HEYGIR~1 "N\F\N\A\hey girl1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/HIPHOP~1 "N\B\N\A\hip hop.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/HIPHOP~1 "N\D\N\A\hip hop.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/HIPHOP~1 "N\F\N\A\hip hop.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/HOUSE1A "N\B\N\A\house1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/HOUSE1A "N\D\N\A\house1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/HOUSE1A "N\F\N\A\house1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/HOUSE1B "N\B\N\A\house1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/HOUSE1B "N\D\N\A\house1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/HOUSE1B "N\F\N\A\house1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/IAMTHE~1 "N\B\N\A\i am the1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/IAMTHE~1 "N\D\N\A\i am the1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/IAMTHE~1 "N\F\N\A\i am the1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/IAMTHE~2 "N\B\N\A\i am the1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/IAMTHE~2 "N\D\N\A\i am the1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/IAMTHE~2 "N\F\N\A\i am the1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/IGOT1A~1 "N\B\N\A\i got 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/IGOT1A~1 "N\D\N\A\i got 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/IGOT1A~1 "N\F\N\A\i got 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/IGOT1B~1 "N\B\N\A\i got 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/IGOT1B~1 "N\D\N\A\i got 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/IGOT1B~1 "N\F\N\A\i got 1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/IGOTTH~2 "N\B\N\A\i got the beat1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/IGOTTH~2 "N\D\N\A\i got the beat1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/IGOTTH~2 "N\F\N\A\i got the beat1a.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELPUS/ENGLISH/101/000/000 "HELPUS\101\000"
 
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELP/ENGLISH/101/000 "HELPUS\101\000"
