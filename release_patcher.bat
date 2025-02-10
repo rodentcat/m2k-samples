@@ -713,6 +713,18 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/YESYOU~2 "N\D\N\A\yes you can1b.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/YESYOU~2 "N\F\N\A\yes you can1b.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/YOBOY1~1 "N\B\N\A\yo boy1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/YOBOY1~1 "N\D\N\A\yo boy1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/YOBOY1~1 "N\F\N\A\yo boy1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/YOGIRL~1 "N\B\N\A\yo girl1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/YOGIRL~1 "N\D\N\A\yo girl1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/YOGIRL~1 "N\F\N\A\yo girl1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/YO "N\B\N\A\yo.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/YO "N\D\N\A\yo.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/YO "N\F\N\A\yo.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/A/YOUGOT~4 "N\B\N\A\you got the beat.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/A/YOUGOT~4 "N\D\N\A\you got the beat.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/A/YOUGOT~1 "N\F\N\A\you got the beat.vag"
