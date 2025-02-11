@@ -1,0 +1,61 @@
+ ADE2000 NAMELIST     1984
+ ADE2800     AHHH    11200 ahhh.vag
+ ADE5800 ALLINH~2    39280 all in house 1.vag
+ ADEF800 ALLINH~1    59088 all in house 2.vag
+ ADFE000     BABY    15152 baby.vag
+ AE02000 CHECKI~1    19872 check it out.vag
+ AE07000  CMON1~1    12464 c'mon 1.vag
+ AE0A800  CMON2~1    15520 c'mon 2.vag
+ AE0E800 COMINO~1    25344 comin' on.vag
+ AE15000    DISCO    20528 disco.vag
+ AE1A800 DROPBA~2    28752 drop bass 1.vag
+ AE22000 DROPBA~1    29216 drop bass 2.vag
+ AE29800 EVERYB~2    47712 everybody 1.vag
+ AE35800 EVERYB~1    33232 everybody 2.vag
+ AE3E000 FEETON~1    45040 feet on floor.vag
+ AE49000 FREEDO~2    22368 freedom 1.vag
+ AE4E800 FREEDO~1    26400 freedom 2.vag
+ AE55000 GETWID~1    27232 get widdit.vag
+ AE5C000 GETWIT~1    20144 get with it.vag
+ AE61000 GIVEBE~2    29568 give beat 1.vag
+ AE68800 GIVEBE~1    22176 give beat 2.vag
+ AE6E000 GIVERY~1    29344 give rhythm
+ AE75800 GRAVIT~2    16128 gravity 1.vag
+ AE79800 GRAVIT~1    27952 gravity 2.vag
+ AE80800 HANDSI~1    43344 hands in air.vag
+ AE8B800   HEY1~1    15488 hey 1.vag
+ AE8F800   HEY2~1    22976 hey 2.vag
+ AE95800 JUSTGR~2    30864 just groove 1.vag
+ AE9D800 JUSTGR~1    27584 just groove 2.vag
+ AEA4800 LAUGH1~1    23792 laugh 1.vag
+ AEAA800 LAUGH2~1    55184 laugh 2.vag
+ AEB8000 LETSGO~2    15328 let's go 1.vag
+ AEBC000 LETSGO~1    21824 let's go 2.vag
+ AEC1800 MOVEFE~1    35968 move feet.vag
+ AECA800     MOVE    17888 move.vag
+ AECF000 NEEDYO~2    25536 need you 1.vag
+ AED5800 NEEDYO~1    33568 need you 2.vag
+ AEDE000    NO1~1    24736 no 1.vag
+ AEE4800    NO2~1    11744 no 2.vag
+ AEE7800    OH1~1    17984 oh 1.vag
+ AEEC000    OH2~1    17904 oh 2.vag
+ AEF0800    OH3~1    45632 oh 3.vag
+ AEFC000    OH4~1    30224 oh 4.vag
+ AF03800   OWW1~1    16816 oww 1.vag
+ AF08000   OWW2~1    14832 oww 2.vag
+ AF0C000   OWW3~1    21648 oww 3.vag
+ AF11800 PEOPLE~2    16432 people 1.vag
+ AF16000 PEOPLE~1    23344 people 2.vag
+ AF1C000 SAVEME~1    26752 save me.vag
+ AF23000 SAYYEA~4    23344 say yeah 1.vag
+ AF29000 SAYYEA~2    20752 say yeah 2.vag
+ AF2E800 SAYYEA~1    26512 say yeah 3.vag
+ AF35000 SAYYEA~3    29264 say yeah 4.vag
+ AF3C800 SENDME~2    22576 send me 1.vag
+ AF42800 SENDME~1    27568 send me 2.vag
+ AF49800 SHAKEI~2    29216 shake it 1.vag
+ AF51000 SHAKEI~1    35504 shake it 2.vag
+ AF5A000 TAKEDO~2    17776 take down 1.vag
+ AF5E800 TAKEDO~1    30784 take down 2.vag
+ AF66800 TOUCHM~1    19648 touch me.vag
+ AF6B800     YEAH    37264 yeah.vag
