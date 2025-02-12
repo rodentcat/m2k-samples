@@ -1,0 +1,93 @@
+Parent index: -639
+
+ 53F2000 NAMELIST     2944
+ 53F3000      AHA     8592 aha.vag
+ 53F5800  AHUH1~1     5776 ahuh 1.vag
+ 53F7000  AHUH2~1     6224 ahuh 2.vag
+ 53F9000 ALLINH~2    17616 all in house 1.vag
+ 53FD800 ALLINH~1    23648 all in house 2.vag
+ 5403800 ALLSAY~2    20624 all say yeah.vag
+ 5409000 ALLSAY~1    23824 all say yo.vag
+ 540F000     BABY     6672 baby.vag
+ 5411000 DANCE1~1     9872 dance 1.vag
+ 5413800 DANCE2~1    10176 dance 2.vag
+ 5416000 DISCO1~1     6048 disco 1.vag
+ 5417800 DISCO2~1     8528 disco 2.vag
+ 541A000 DROPBA~1    12960 drop bass.vag
+ 541D800 EIGHT1~1     5504 eight 1.vag
+ 541F000 EIGHT2~1     2448 eight 2.vag
+ 5420000 EVERYB~2    18448 everybody 1.vag
+ 5425000 EVERYB~1    23056 everybody 2
+ 542B000 FEETON~2    20224 feet on floor 1.vag
+ 5430000 FEETON~1    19888 feet on floor 2.vag
+ 5435000  FIVE1~1     6544 five 1.vag
+ 5437000  FIVE2~1     4688 five 2.vag
+ 5438800  FOUR1~1     5840 four 1.vag
+ 543A000  FOUR2~1     4704 four 2.vag
+ 543B800 FREEDO~4     8784 freedom 1.vag
+ 543E000 FREEDO~2    13824 freedom 2.vag
+ 5441800 FREEDO~1    14352 freedom 3.vag
+ 5445800 FREEDO~3    13824 freedom 4.vag
+ 5449000 GETDOW~2    15408 get down 1.vag
+ 544D000 GETDOW~1    16592 get down 2.vag
+ 5451800 GETITU~1     8224 get it up.vag
+ 5454000 GETREA~1    20720 get ready.vag
+ 5459800 GOODNI~1    10496 goodnight.vag
+ 545C800  GRAVITY     8528 gravity.vag
+ 545F000 GROOVI~1    10192 groovin'
+ 5461800      HAH     3200 hah.vag
+ 5462800 HANDS1~1    20240 hands 1.vag
+ 5467800 HANDS2~1    22000 hands 2.vag
+ 546D000      HEY     3568 hey.vag
+ 546E000 HITIT1~1     5312 hit it 1.vag
+ 546F800 HITIT2~1     6000 hit it 2.vag
+ 5471000   HUH1~1     3696 huh 1.vag
+ 5472000   HUH2~1     7680 huh 2.vag
+ 5474000   HUH3~1     6608 huh 3.vag
+ 5476000   HUH4~1     4592 huh 4.vag
+ 5477800 INHOUS~2    23584 in house 1.vag
+ 547D800 INHOUS~1    20064 in house 2.vag
+ 5482800    LAUGH    37920 laugh.vag
+ 548C000 LETSGO~1    14464 let's go
+ 5490000 LIVEIT~1    11968 live it up.vag
+ 5493000 LUVVIT~1    10960 luvvit up.vag
+ 5496000 MASSIV~1    17440 massive house.vag
+ 549A800 MOVEFE~2    13744 move feet 1.vag
+ 549E000 MOVEFE~1    15520 move feet 2
+ 54A2000 NEEDYO~1    12272 need you.vag
+ 54A5000   ONE1~1     8096 one 1.vag
+ 54A7000   ONE2~1     4480 one 2.vag
+ 54A8800   OOH1~1    13824 ooh 1.vag
+ 54AC000   OWW1~1     5744 oww 1.vag
+ 54AD800   OWW2~1    15952 oww 2.vag
+ 54B1800 PEOPLE~2    10448 people 1.vag
+ 54B4800 PEOPLE~1     6896 people 2.vag
+ 54B6800 RYTHYM~2    15168 rhythm 1
+ 54BA800 RYTHYM~1    12576 rhythm 2
+ 54BE000 SAVEME~1    17456 save me.vag
+ 54C2800 SENDHI~1    17488 send higher.vag
+ 54C7000 SENDME~1    12784 send me.vag
+ 54CA800 SEVEN1~1     7200 seven 1.vag
+ 54CC800 SEVEN2~1     5392 seven 2.vag
+ 54CE000 SHAKEB~3    17056 shake baby 1.vag
+ 54D2800 SHAKEB~2    11536 shake baby 2.vag
+ 54D5800 SHAKEB~1    13680 shake baby 3.vag
+ 54D9000 SHAKEU~2    11952 shake up 1.vag
+ 54DC000 SHAKEU~1    12640 shake up 2.vag
+ 54DF800   SIX1~1     7616 six 1.vag
+ 54E1800   SIX2~1     7168 six 2.vag
+ 54E3800 TAKEDO~1     9168 take down.vag
+ 54E6000 THANKY~1    10768 thank you.vag
+ 54E9000 THREE1~1     5888 three 1.vag
+ 54EA800 THREE2~1     4528 three 2.vag
+ 54EC000 TOUCHM~1    10128 touch me.vag
+ 54EE800   TWO1~1     5440 two 1.vag
+ 54F0000   TWO2~1     4416 two 2.vag
+ 54F1800 WITHIT~1    12480 with it.vag
+ 54F5000  YEAH1~1    11136 yeah 1.vag
+ 54F8000  YEAH2~1     5696 yeah 2.vag
+ 54F9800  YEAH3~1    11408 yeah 3.vag
+ 54FC800  YEAH4~1     9088 yeah 4.vag
+ 54FF000       YO     8544 yo.vag
+ 5501800  ZERO1~1     7664 zero 1.vag
+ 5503800  ZERO2~1     6688 zero 2.vag
