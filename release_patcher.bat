@@ -925,6 +925,74 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/OWW1~1 "N\D\N\B\oww 1.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/OWW1~1 "N\F\N\B\oww 1.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/OWW2~1 "N\B\N\B\oww 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/OWW2~1 "N\D\N\B\oww 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/OWW2~1 "N\F\N\B\oww 2.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/OWW3~1 "N\B\N\B\oww 3.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/OWW3~1 "N\D\N\B\oww 3.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/OWW3~1 "N\F\N\B\oww 3.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/PEOPLE~2 "N\B\N\B\people 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/PEOPLE~2 "N\D\N\B\people 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/PEOPLE~2 "N\F\N\B\people 1.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/PEOPLE~1 "N\B\N\B\people 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/PEOPLE~1 "N\D\N\B\people 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/PEOPLE~1 "N\F\N\B\people 2.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/SAVEME~1 "N\B\N\B\save me.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/SAVEME~1 "N\D\N\B\save me.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/SAVEME~1 "N\F\N\B\save me.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/SAYYEA~4 "N\B\N\B\say yeah 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/SAYYEA~4 "N\D\N\B\say yeah 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/SAYYEA~4 "N\F\N\B\say yeah 1.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/SAYYEA~2 "N\B\N\B\say yeah 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/SAYYEA~2 "N\D\N\B\say yeah 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/SAYYEA~2 "N\F\N\B\say yeah 2.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/SAYYEA~1 "N\B\N\B\say yeah 3.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/SAYYEA~1 "N\D\N\B\say yeah 3.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/SAYYEA~1 "N\F\N\B\say yeah 3.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/SAYYEA~3 "N\B\N\B\say yeah 4.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/SAYYEA~3 "N\D\N\B\say yeah 4.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/SAYYEA~3 "N\F\N\B\say yeah 4.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/SENDME~2 "N\B\N\B\send me 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/SENDME~2 "N\D\N\B\send me 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/SENDME~2 "N\F\N\B\send me 1.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/SENDME~1 "N\B\N\B\send me 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/SENDME~1 "N\D\N\B\send me 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/SENDME~1 "N\F\N\B\send me 2.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/SHAKEI~2 "N\B\N\B\shake it 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/SHAKEI~2 "N\D\N\B\shake it 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/SHAKEI~2 "N\F\N\B\shake it 1.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/SHAKEI~1 "N\B\N\B\shake it 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/SHAKEI~1 "N\D\N\B\shake it 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/SHAKEI~1 "N\F\N\B\shake it 2.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/TAKEDO~2 "N\B\N\B\take down 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/TAKEDO~2 "N\D\N\B\take down 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/TAKEDO~2 "N\F\N\B\take down 1.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/TAKEDO~1 "N\B\N\B\take down 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/TAKEDO~1 "N\D\N\B\take down 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/TAKEDO~1 "N\F\N\B\take down 2.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/TOUCHM~1 "N\B\N\B\touch me.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/TOUCHM~1 "N\D\N\B\touch me.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/TOUCHM~1 "N\F\N\B\touch me.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/B/YEAH "N\B\N\B\yeah.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/B/YEAH "N\D\N\B\yeah.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/B/YEAH "N\F\N\B\yeah.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELPUS/ENGLISH/101/000/000 "HELPUS\101\000"
 
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELP/ENGLISH/101/000 "HELPUS\101\000"
