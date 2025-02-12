@@ -1125,6 +1125,18 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/HAH "N\D\N\D\hah.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/HAH "N\F\N\D\hah.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/GETDOW~2 "N\B\fish.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/GETDOW~2 "N\D\fish.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/GETDOW~2 "N\F\fish.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/GETDOW~1 "N\B\fish.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/GETDOW~1 "N\D\fish.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/GETDOW~1 "N\F\fish.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/DOWNHO~1 "N\B\fish.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/DOWNHO~1 "N\D\fish.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/DOWNHO~1 "N\F\fish.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELPUS/ENGLISH/101/000/000 "HELPUS\101\000"
 
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELP/ENGLISH/101/000 "HELPUS\101\000"
