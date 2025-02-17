@@ -1161,6 +1161,30 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/HUH4~1 "N\D\N\D\huh 4.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/HUH4~1 "N\F\N\D\huh 4.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/INHOUS~2 "N\B\N\D\in house 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/INHOUS~2 "N\D\N\D\in house 1.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/INHOUS~2 "N\F\N\D\in house 1.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/INHOUS~1 "N\B\N\D\in house 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/INHOUS~1 "N\D\N\D\in house 2.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/INHOUS~1 "N\F\N\D\in house 2.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/LAUGH "N\B\N\D\laugh.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/LAUGH "N\D\N\D\laugh.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/LAUGH "N\F\N\D\laugh.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/LETSGO~1 "N\B\N\D\let's go.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/LETSGO~1 "N\D\N\D\let's go.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/LETSGO~1 "N\F\N\D\let's go.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/LIVEIT~1 "N\B\N\D\live it up.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/LIVEIT~1 "N\D\N\D\live it up.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/LIVEIT~1 "N\F\N\D\live it up.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/LUVVIT~1 "N\B\N\D\luvvit up.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/LUVVIT~1 "N\D\N\D\luvvit up.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/LUVVIT~1 "N\F\N\D\luvvit up.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELPUS/ENGLISH/101/000/000 "HELPUS\101\000"
 
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELP/ENGLISH/101/000 "HELPUS\101\000"
