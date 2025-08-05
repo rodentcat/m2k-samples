@@ -1345,6 +1345,10 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/ZERO2~1 "N\D\N\D\zero 2.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/ZERO2~1 "N\F\N\D\zero 2.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/D/AREYOU~4 "N\B\N\D\are you 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/D/AREYOU~4 "N\D\N\D\are you 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/D/AREYOU~4 "N\F\N\D\are you 1a.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELPUS/ENGLISH/101/000/000 "HELPUS\101\000"
 
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELP/ENGLISH/101/000 "HELPUS\101\000"

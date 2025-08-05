@@ -1,0 +1,63 @@
+ 2554000 AREYOU~4    12160 are you 1a.vag
+ 2557000 AREYOU~1    22096 are you 1b.vag
+ 255C800 AREYOU~2     7856 are you ready 1a.vag
+ 255E800 AREYOU~3     9072 are you ready 1b.vag
+ 2561000 BABYBA~1    18032 baby baby 1a.vag
+ 2565800 BABYBA~2    17728 baby baby 1b.vag
+ 256A000 BACKAG~1    18992 back again 1a.vag
+ 256F000 BACKAG~2    19728 back again 1b.vag
+ 2574000 CHEKKI~1     9840 chekkit 1a.vag
+ 2576800 CHEKKI~2     7872 chekkit 1b.vag
+ 2578800 COMING~1    18016 coming 1a.vag
+ 257D000 COMING~2    14416 coming 1b.vag
+ 2581000 DONTST~1    17856 don't stop 1a
+ 2585800 DONTST~2    18896 don't stop 1b
+ 258A800 EVERYD~1    10672 every day to start 1a.vag
+ 258D800 EVERYD~2    12256 every day to start 1b.vag
+ 2590800 EVERYD~3    12736 every day's 1a
+ 2594000 EVERYD~4    14080 every day's 1b
+ 2597800 FILLIN~1    10528 filling up 1b
+ 259A800 FILLIN~2    11424 filling up 1a.vag
+ 259D800 GETFRE~1     7408 get fresh 1a.vag
+ 259F800 GETFRE~2    11696 get fresh 1b.vag
+ 25A2800 GETREA~1    16304 get ready 1a.vag
+ 25A6800 GETREA~2    18528 get ready 1b.vag
+ 25AB800 GETUP1~1    34160 get up 1b
+ 25B4000 GETUP1~2    19328 get up 1a
+ 25B9000 GOGO1A~1    13600 go go 1a.vag
+ 25BC800 GOGO1B~1    15440 go go 1b.vag
+ 25C0800 HIMMAK~2    13712 him make 1a.vag
+ 25C4000 HIMMAK~1    14160 him make 1b.vag
+ 25C7800 ISAID1~1    18480 i said 1a.vag
+ 25CC800 ISAID1~2    16992 i said 1b.vag
+ 25D1000 JUSTDA~1    16816 just dance 1a.vag
+ 25D5800 JUSTDA~2    17632 just dance 1b.vag
+ 25DA000 LETTHE~1    15632 let the contest 1b
+ 25DE000 LETTHE~2    16880 let the contest 1a.vag
+ 25E2800 LETSKI~1    19392 let's kick it 1a
+ 25E7800 LETSKI~2    21216 let's kick it 1b
+ 25ED000 METAKE~1    10176 me takea 1a.vag
+ 25EF800 METAKE~2    22160 me takea 1b.vag
+ 25F5000 OOOOOH~1    10656 oooooh 1a.vag
+ 25F8000 OOOOOH~2    15504 oooooh 1b.vag
+ 25FC000 PLAYDA~1    11680 play dat bass 1a.vag
+ 25FF000 PLAYDA~2    11648 play dat bass 1b.vag
+ 2602000 RUMBLE~1    13232 rumble 1a.vag
+ 2605800 RUMBLE~2    20704 rumble 1b.vag
+ 260B000 RUMBLE~3    21328 rumble 1c.vag
+ 2610800 SETMEU~1    20704 set me up 1b
+ 2616000 SETMEU~2    19504 set me up 1a
+ 261B000 SHAKE1~1    14160 shake 1a.vag
+ 261E800 SHAKE1~2    13088 shake 1b.vag
+ 2622000 SHAKEI~1    11136 shake it 1a.vag
+ 2625000 SHAKEI~2    13920 shake it1b.vag
+ 2628800 STEPPI~1    12368 steppin' out 1a
+ 262C000 STEPPI~2    13456 steppin' out 1b
+ 262F800 TELLIT~1    14112 tellit to me face 1b.vag
+ 2633000 TELLIT~2    10448 tellit to me face 1a
+ 2636000 TELLIT~3    11184 tellit to me heart 1b
+ 2639000 TELLIT~4    14368 tellit to me heart 1a
+ 263D000 YOUAIN~1    21680 you ain't 1a
+ 2642800 YOUAIN~2    22656 you ain't 1b
+ 2648800 YOUBET~1    13424 you be twist 1a.vag
+ 264C000 YOUBET~2    12672 you be twist 1b.vag
