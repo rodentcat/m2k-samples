@@ -1517,6 +1517,46 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/PLAYDA~1 "N\D\N\F\play dat bass 1a.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/PLAYDA~1 "N\F\N\F\play dat bass 1a.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/PLAYDA~2 "N\B\N\F\play dat bass 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/PLAYDA~2 "N\D\N\F\play dat bass 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/PLAYDA~2 "N\F\N\F\play dat bass 1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/RUMBLE~1 "N\B\N\F\rumble 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/RUMBLE~1 "N\D\N\F\rumble 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/RUMBLE~1 "N\F\N\F\rumble 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/RUMBLE~2 "N\B\N\F\rumble 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/RUMBLE~2 "N\D\N\F\rumble 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/RUMBLE~2 "N\F\N\F\rumble 1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/RUMBLE~3 "N\B\N\F\rumble 1c.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/RUMBLE~3 "N\D\N\F\rumble 1c.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/RUMBLE~3 "N\F\N\F\rumble 1c.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/SETMEU~1 "N\B\N\F\set me up 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/SETMEU~1 "N\D\N\F\set me up 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/SETMEU~1 "N\F\N\F\set me up 1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/SETMEU~2 "N\B\N\F\set me up 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/SETMEU~2 "N\D\N\F\set me up 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/SETMEU~2 "N\F\N\F\set me up 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/SHAKE1~1 "N\B\N\F\shake 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/SHAKE1~1 "N\D\N\F\shake 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/SHAKE1~1 "N\F\N\F\shake 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/SHAKE1~2 "N\B\N\F\shake 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/SHAKE1~2 "N\D\N\F\shake 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/SHAKE1~2 "N\F\N\F\shake 1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/SHAKEI~1 "N\B\N\F\shake it 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/SHAKEI~1 "N\D\N\F\shake it 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/SHAKEI~1 "N\F\N\F\shake it 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/SHAKEI~2 "N\B\N\F\shake it1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/SHAKEI~2 "N\D\N\F\shake it1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/SHAKEI~2 "N\F\N\F\shake it1b.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELPUS/ENGLISH/101/000/000 "HELPUS\101\new000"
 
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELP/ENGLISH/101/000 "HELPUS\101\new000"
