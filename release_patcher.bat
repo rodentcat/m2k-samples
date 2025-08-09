@@ -1557,6 +1557,46 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/SHAKEI~2 "N\D\N\F\shake it1b.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/SHAKEI~2 "N\F\N\F\shake it1b.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/STEPPI~1 "N\B\N\F\steppin' out 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/STEPPI~1 "N\D\N\F\steppin' out 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/STEPPI~1 "N\F\N\F\steppin' out 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/STEPPI~2 "N\B\N\F\steppin' out 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/STEPPI~2 "N\D\N\F\steppin' out 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/STEPPI~2 "N\F\N\F\steppin' out 1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/TELLIT~1 "N\B\N\F\tellit to me face 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/TELLIT~1 "N\D\N\F\tellit to me face 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/TELLIT~1 "N\F\N\F\tellit to me face 1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/TELLIT~2 "N\B\N\F\tellit to me face 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/TELLIT~2 "N\D\N\F\tellit to me face 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/TELLIT~2 "N\F\N\F\tellit to me face 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/TELLIT~3 "N\B\N\F\tellit to me heart 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/TELLIT~3 "N\D\N\F\tellit to me heart 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/TELLIT~3 "N\F\N\F\tellit to me heart 1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/TELLIT~4 "N\B\N\F\tellit to me heart 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/TELLIT~4 "N\D\N\F\tellit to me heart 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/TELLIT~4 "N\F\N\F\tellit to me heart 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/YOUAIN~1 "N\B\N\F\you ain't 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/YOUAIN~1 "N\D\N\F\you ain't 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/YOUAIN~1 "N\F\N\F\you ain't 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/YOUAIN~2 "N\B\N\F\you ain't 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/YOUAIN~2 "N\D\N\F\you ain't 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/YOUAIN~2 "N\F\N\F\you ain't 1b.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/YOUBET~1 "N\B\N\F\you be twist 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/YOUBET~1 "N\D\N\F\you be twist 1a.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/YOUBET~1 "N\F\N\F\you be twist 1a.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/F/YOUBET~2 "N\B\N\F\you be twist 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/YOUBET~2 "N\D\N\F\you be twist 1b.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/YOUBET~2 "N\F\N\F\you be twist 1b.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELPUS/ENGLISH/101/000/000 "HELPUS\101\new000"
 
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELP/ENGLISH/101/000 "HELPUS\101\new000"
