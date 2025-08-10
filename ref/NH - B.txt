@@ -1,0 +1,20 @@
+2622000 BUTLIF~1    21552 but life.vag
+2627800 BUTWHY~1    22736 but why not smile.vag
+262D800 FILLTH~1    25792 fill the sky.vag
+2634000 HERESA~1    20720 here's a thought
+2639800 ITMAKE~1    23104 it makes no sense.vag
+263F800 ITSJUS~1    21376 it's just not right
+2645000 ITSNOT~1    21648 it's not easy
+264A800 JUSTWH~1    15072 just when.vag
+264E800 KEEPTH~1    21712 keep the ones.vag
+2654000 ORTHEY~1    17632 or they'll blow.vag
+2658800  SECONDS    21696 seconds.vag
+265E000 SEETHE~1    22528 see them all.vag
+2663800 SHOOTT~1    22320 shoot them down.vag
+2669000 SHOULD~1    21568 should be calm.vag
+266E800 THESKY~1    16272 the sky falls.vag
+2672800 TRYTOS~1    21792 try to see.vag
+2678000 VELVET~1    22400 velvet moon.vag
+267D800 WEALLK~1    21776 we all know.vag
+2683000 WEALLS~1    19296 we all say.vag
+2688000 WHENYO~1    19296 when you are.vag

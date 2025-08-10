@@ -1,0 +1,20 @@
+56F1000 BUTLIF~1    43056 but life.vag
+56FC000 BUTWHY~1    45440 but why not smile.vag
+5707800 FILLTH~1    51552 fill the sky.vag
+5714800 HERESA~1    41408 here's a thought
+571F000 ITMAKE~1    46160 it makes no sense.vag
+572A800 ITSJUS~1    42720 it's just not right
+5735000 ITSNOT~1    43264 it's not easy
+5740000 JUSTWH~1    30112 just when.vag
+5747800 KEEPTH~1    43392 keep the ones.vag
+5752800 ORTHEY~1    35232 or they'll blow.vag
+575B800  SECONDS    43360 seconds.vag
+5766800 SEETHE~1    45008 see them all.vag
+5771800 SHOOTT~1    44592 shoot them down.vag
+577C800 SHOULD~1    43088 should be calm.vag
+5787800 THESKY~1    32512 the sky falls.vag
+578F800 TRYTOS~1    43552 try to see.vag
+579A800 VELVET~1    44752 velvet moon.vag
+57A5800 WEALLK~1    43504 we all know.vag
+57B0800 WEALLS~1    38560 we all say.vag
+57BA000 WHENYO~1    38544 when you are.vag

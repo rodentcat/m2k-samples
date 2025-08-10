@@ -1,0 +1,20 @@
+ B545000 BUTLIF~1    86128 but life.vag
+ B55A800 BUTWHY~1    90896 but why not smile.vag
+ B571000 FILLTH~1   103120 fill the sky.vag
+ B58A800 HERESA~1    82816 here's a thought
+ B59F000 ITMAKE~1    92336 it makes no sense.vag
+ B5B6000 ITSJUS~1    85440 it's just not right
+ B5CB000 ITSNOT~1    86544 it's not easy
+ B5E0800 JUSTWH~1    60240 just when.vag
+ B5EF800 KEEPTH~1    86784 keep the ones.vag
+ B605000 ORTHEY~1    70480 or they'll blow.vag
+ B616800  SECONDS    86720 seconds.vag
+ B62C000 SEETHE~1    90032 see them all.vag
+ B642000 SHOOTT~1    89200 shoot them down.vag
+ B658000 SHOULD~1    86176 should be calm.vag
+ B66D800 THESKY~1    65040 the sky falls.vag
+ B67D800 TRYTOS~1    87104 try to see.vag
+ B693000 VELVET~1    89504 velvet moon.vag
+ B6A9000 WEALLK~1    87024 we all know.vag
+ B6BE800 WEALLS~1    77136 we all say.vag
+ B6D1800 WHENYO~1    77104 when you are.vag

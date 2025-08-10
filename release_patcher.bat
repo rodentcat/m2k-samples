@@ -1597,6 +1597,86 @@ set /p "wadtool=Drag and drog wadtool.exe in this window, then press enter: "
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/F/YOUBET~2 "N\D\N\F\you be twist 1b.vag"
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/F/YOUBET~2 "N\F\N\F\you be twist 1b.vag"
 
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/BUTLIF~1 "N\B\N\H\but life.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/BUTLIF~1 "N\D\N\H\but life.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/BUTLIF~1 "N\F\N\H\but life.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/BUTWHY~1 "N\B\N\H\but why not smile.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/BUTWHY~1 "N\D\N\H\but why not smile.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/BUTWHY~1 "N\F\N\H\but why not smile.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/FILLTH~1 "N\B\N\H\fill the sky.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/FILLTH~1 "N\D\N\H\fill the sky.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/FILLTH~1 "N\F\N\H\fill the sky.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/HERESA~1 "N\B\N\H\here's a thought.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/HERESA~1 "N\D\N\H\here's a thought.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/HERESA~1 "N\F\N\H\here's a thought.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/ITMAKE~1 "N\B\N\H\it makes no sense.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/ITMAKE~1 "N\D\N\H\it makes no sense.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/ITMAKE~1 "N\F\N\H\it makes no sense.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/ITSJUS~1 "N\B\N\H\it's just not right.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/ITSJUS~1 "N\D\N\H\it's just not right.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/ITSJUS~1 "N\F\N\H\it's just not right.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/ITSNOT~1 "N\B\N\H\it's not easy.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/ITSNOT~1 "N\D\N\H\it's not easy.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/ITSNOT~1 "N\F\N\H\it's not easy.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/JUSTWH~1 "N\B\N\H\just when.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/JUSTWH~1 "N\D\N\H\just when.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/JUSTWH~1 "N\F\N\H\just when.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/KEEPTH~1 "N\B\N\H\keep the ones.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/KEEPTH~1 "N\D\N\H\keep the ones.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/KEEPTH~1 "N\F\N\H\keep the ones.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/ORTHEY~1 "N\B\N\H\or they'll blow.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/ORTHEY~1 "N\D\N\H\or they'll blow.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/ORTHEY~1 "N\F\N\H\or they'll blow.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/SECONDS "N\B\N\H\seconds.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/SECONDS "N\D\N\H\seconds.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/SECONDS "N\F\N\H\seconds.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/SEETHE~1 "N\B\N\H\see them all.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/SEETHE~1 "N\D\N\H\see them all.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/SEETHE~1 "N\F\N\H\see them all.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/SHOOTT~1 "N\B\N\H\shoot them down.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/SHOOTT~1 "N\D\N\H\shoot them down.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/SHOOTT~1 "N\F\N\H\shoot them down.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/SHOULD~1 "N\B\N\H\should be calm.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/SHOULD~1 "N\D\N\H\should be calm.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/SHOULD~1 "N\F\N\H\should be calm.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/THESKY~1 "N\B\N\H\the sky falls.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/THESKY~1 "N\D\N\H\the sky falls.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/THESKY~1 "N\F\N\H\the sky falls.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/TRYTOS~1 "N\B\N\H\try to see.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/TRYTOS~1 "N\D\N\H\try to see.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/TRYTOS~1 "N\F\N\H\try to see.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/VELVET~1 "N\B\N\H\velvet moon.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/VELVET~1 "N\D\N\H\velvet moon.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/VELVET~1 "N\F\N\H\velvet moon.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/WEALLK~1 "N\B\N\H\we all know.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/WEALLK~1 "N\D\N\H\we all know.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/WEALLK~1 "N\F\N\H\we all know.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/WEALLS~1 "N\B\N\H\we all say.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/WEALLS~1 "N\D\N\H\we all say.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/WEALLS~1 "N\F\N\H\we all say.vag"
+
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/B/N/H/WHENYO~1 "N\B\N\H\when you are.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/D/N/H/WHENYO~1 "N\D\N\H\when you are.vag"
+%wadtool% -i %wadname%.IND -w %wadname%.WAD replace N/F/N/H/WHENYO~1 "N\F\N\H\when you are.vag"
+
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELPUS/ENGLISH/101/000/000 "HELPUS\101\new000"
 
 %wadtool% -i %wadname%.IND -w %wadname%.WAD replace HELP/ENGLISH/101/000 "HELPUS\101\new000"
